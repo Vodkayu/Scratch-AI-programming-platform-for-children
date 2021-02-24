@@ -28,7 +28,7 @@
 
 　　萌生了开发此项目的想法之后，我们寻求与大嘴鸟公司进行合作研究。依托他们公司所具有的经济和市场支持。于是我们随后对位于余杭区的大嘴鸟公司进行了实践走访和技术交流。　　
 
-![](https://github.com/Vodkayu/Scratch-AI-programming-platform-for-children/blob/main/images/1.png?raw=true)
+![](https://github.com/Vodkayu/Scratch-AI-programming-platform-for-children/blob/main/images/1.jpg?raw=true)
 
 #### 3、技术攻关　　
 
