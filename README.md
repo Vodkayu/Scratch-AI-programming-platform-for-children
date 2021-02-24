@@ -28,6 +28,8 @@
 
 　　萌生了开发此项目的想法之后，我们寻求与大嘴鸟公司进行合作研究。依托他们公司所具有的经济和市场支持。于是我们随后对位于余杭区的大嘴鸟公司进行了实践走访和技术交流。　　
 
+![](https://github.com/Vodkayu/Scratch-AI-programming-platform-for-children/blob/main/images/1.png?raw=true)
+
 #### 3、技术攻关　　
 
 　　我们的项目研究主要分为四个方面：　　
@@ -71,6 +73,8 @@
 #### 1、国家政策规划　　
 
 　　为缩小与发达国家之间才才培养的差距，2017年国务院发布的《新一代人工智能发展规划》与教育部办公厅印发的《2019年教育信息化和网络安全工作要点》，均明确指出将在中小学阶段逐步推广编程教育，让人工智能成为国际竞争的新焦点。　　
+
+![](https://github.com/Vodkayu/Scratch-AI-programming-platform-for-children/blob/main/images/2.png?raw=true)
 
 #### 2、市场前景　　
 
